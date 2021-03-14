@@ -1,2 +1,2 @@
 # free-fire-official-tournament
-FIFA official tournament links
+Fire official tournament links
